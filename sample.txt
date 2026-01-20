@@ -1,1 +1,4 @@
-for better use , you can clone this repo and run it into your local system using python library opencv and ultranalytics
+Key Libraries : 
+    ultranalytics
+    opencv-python
+    matplotlib (optional)
