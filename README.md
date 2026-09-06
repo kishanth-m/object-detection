@@ -6,14 +6,22 @@ This project demonstrates **real-time object detection using YOLOv8 and OpenCV**
 
 ## Demo
 
-![Live detection output](images/img1.png)
-*Real-time detection running on a webcam feed*
-
-![Bounding box overlay](images/img2.png)
-*Detected objects with labels and confidence scores*
-
-![Project in action](images/img3.png)
-*Application running end-to-end*
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/img1.png" width="200"><br>
+      <sub>Live detection output</sub>
+    </td>
+    <td align="center">
+      <img src="images/img2.png" width="200"><br>
+      <sub>Bounding box overlay</sub>
+    </td>
+    <td align="center">
+      <img src="images/img3.png" width="200"><br>
+      <sub>Project in action</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
