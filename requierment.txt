@@ -1,0 +1,4 @@
+Key Libraries : 
+    ultranalytics
+    opencv2 - python
+    matplotlib(optional)
